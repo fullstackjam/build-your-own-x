@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "EditorConfig.EditorConfig",
+    "KevinRose.vsc-python-indent",
+    "ms-azuretools.vscode-docker",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-containers",
+    "njqdev.vscode-python-typehint",
+    "oderwat.indent-rainbow",
+    "redhat.vscode-yaml",
+    "sourcery.sourcery",
+    "streetsidesoftware.code-spell-checker",
+    "techer.open-in-browser",
+    "eamodio.gitlens",
+    "GitHub.copilot",
+  ]
+}
